@@ -3,6 +3,7 @@ import Home from './pages/Home';
 
 function App() {
   console.log("Test")
+  console.log("Test")
   return (
     <>
       <BrowserRouter>
